@@ -1,19 +1,19 @@
 {
   "configVersion": 1,
-  "index": "/index.html",
+  "index": "/test-pwa/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/es2015-polyfills.4a4cfea0ce682043f4e9.js",
-        "/favicon.ico",
-        "/index.html",
-        "/main.f75646837847f422e80f.js",
-        "/polyfills.407a467dedb63cfdd103.js",
-        "/runtime.a5dd35324ddfd942bef1.js",
-        "/styles.79bca75088f58a572a28.css"
+        "/test-pwa/es2015-polyfills.4a4cfea0ce682043f4e9.js",
+        "/test-pwa/favicon.ico",
+        "/test-pwa/index.html",
+        "/test-pwa/main.f75646837847f422e80f.js",
+        "/test-pwa/polyfills.407a467dedb63cfdd103.js",
+        "/test-pwa/runtime.a5dd35324ddfd942bef1.js",
+        "/test-pwa/styles.79bca75088f58a572a28.css"
       ],
       "patterns": []
     },
@@ -22,14 +22,14 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "/test-pwa/assets/icons/icon-128x128.png",
+        "/test-pwa/assets/icons/icon-144x144.png",
+        "/test-pwa/assets/icons/icon-152x152.png",
+        "/test-pwa/assets/icons/icon-192x192.png",
+        "/test-pwa/assets/icons/icon-384x384.png",
+        "/test-pwa/assets/icons/icon-512x512.png",
+        "/test-pwa/assets/icons/icon-72x72.png",
+        "/test-pwa/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
@@ -48,21 +48,21 @@
     }
   ],
   "hashTable": {
-    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/es2015-polyfills.4a4cfea0ce682043f4e9.js": "b7a81c61d32b0b12737f0c13f45973ba391cd7f9",
-    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "c62fea658040c3ac9fa5bbb13e346ec941811648",
-    "/main.f75646837847f422e80f.js": "ef3ceafad596a8bb9af5a50359ccfcbf1d6ccf19",
-    "/polyfills.407a467dedb63cfdd103.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
-    "/runtime.a5dd35324ddfd942bef1.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "/styles.79bca75088f58a572a28.css": "57461b845654943bf2b7bc0d39940931425f7928"
+    "/test-pwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/test-pwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/test-pwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/test-pwa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/test-pwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/test-pwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/test-pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/test-pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/test-pwa/es2015-polyfills.4a4cfea0ce682043f4e9.js": "b7a81c61d32b0b12737f0c13f45973ba391cd7f9",
+    "/test-pwa/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/test-pwa/index.html": "6ec9e108c63fdab1fc71a9d42df3833b39fab44c",
+    "/test-pwa/main.f75646837847f422e80f.js": "ef3ceafad596a8bb9af5a50359ccfcbf1d6ccf19",
+    "/test-pwa/polyfills.407a467dedb63cfdd103.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
+    "/test-pwa/runtime.a5dd35324ddfd942bef1.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/test-pwa/styles.79bca75088f58a572a28.css": "57461b845654943bf2b7bc0d39940931425f7928"
   },
   "navigationUrls": [
     {
