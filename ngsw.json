@@ -10,7 +10,7 @@
         "/test-pwa/es2015-polyfills.4a4cfea0ce682043f4e9.js",
         "/test-pwa/favicon.ico",
         "/test-pwa/index.html",
-        "/test-pwa/main.90ad875a796d5c51fed4.js",
+        "/test-pwa/main.e216422a54da6302f2c1.js",
         "/test-pwa/polyfills.407a467dedb63cfdd103.js",
         "/test-pwa/runtime.a5dd35324ddfd942bef1.js",
         "/test-pwa/styles.79bca75088f58a572a28.css"
@@ -58,8 +58,8 @@
     "/test-pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/test-pwa/es2015-polyfills.4a4cfea0ce682043f4e9.js": "b7a81c61d32b0b12737f0c13f45973ba391cd7f9",
     "/test-pwa/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/test-pwa/index.html": "25fbf487aa9f0f12f3068d7a475521753d2d97a7",
-    "/test-pwa/main.90ad875a796d5c51fed4.js": "54e445746c84eff799e7b73eb275dec70c727a98",
+    "/test-pwa/index.html": "3f451f8c1b7e88c4ce898de6391ce6d50564f42c",
+    "/test-pwa/main.e216422a54da6302f2c1.js": "76b6e64916ac19f73c3cc731dd9d5d2669f31d3e",
     "/test-pwa/polyfills.407a467dedb63cfdd103.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
     "/test-pwa/runtime.a5dd35324ddfd942bef1.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/test-pwa/styles.79bca75088f58a572a28.css": "57461b845654943bf2b7bc0d39940931425f7928"
