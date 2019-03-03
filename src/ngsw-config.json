@@ -1,4 +1,15 @@
 {
+  "routing": {
+    "index": "/index.html",
+    "routes": {
+      "/": {
+        "match": "exact"
+      },
+      "/test-pwa": {
+        "match": "prefix"
+      }
+    }
+  },
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,7 +23,8 @@
           "/*.js"
         ]
       }
-    }, {
+    },
+    {
       "name": "assets",
       "installMode": "lazy",
       "updateMode": "prefetch",

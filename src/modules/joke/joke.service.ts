@@ -4,7 +4,7 @@ import { Observable } from 'rxjs';
 import { map } from 'rxjs/operators';
 import { JokeResponse, Joke } from './joke.interface';
 
-const API_ENDPOINT = 'http://api.icndb.com/jokes/random';
+const API_ENDPOINT = 'https://api.icndb.com/jokes/random';
 
 @Injectable()
 export class JokeService {

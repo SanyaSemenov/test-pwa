@@ -3,13 +3,14 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
+    "start": "ng serve -o",
     "build": "ng build",
-    "build:prod": "ng build --prod",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "server": "cd dist/test-pwa && http-server -o -p 4202"
+    "server": "cd dist/test-pwa && http-server -o -p 4202",
+    "build:prod": "ng build --aot --prod --base-href=/test-pwa/",
+    "publish": "npm run build:prod && ngh --dir=dist/test-pwa"
   },
   "private": true,
   "dependencies": {
@@ -34,9 +35,9 @@
     "@angular/cli": "~7.3.3",
     "@angular/compiler-cli": "~7.2.0",
     "@angular/language-service": "~7.2.0",
-    "@types/node": "~8.9.4",
     "@types/jasmine": "~2.8.8",
     "@types/jasminewd2": "~2.0.3",
+    "@types/node": "~8.9.4",
     "codelyzer": "~4.5.0",
     "jasmine-core": "~2.99.1",
     "jasmine-spec-reporter": "~4.2.1",
